@@ -5,8 +5,8 @@ const {
     Client
 } = require('discord.js');
 
-const token = 'MTExNDMxNjYyNjY1ODA3MDUyOA.GpNibs.b0whY8CTp3BgtwGV-2szxwGVT-bbx9IB2DpG8g';
-const serverId = '1109565980071428146';
+const token = '';
+const serverId = '';
 // Enable or disable tag retrieval (true to enable, false to disable)
 const includeTag = true;
 const client = new Client();
